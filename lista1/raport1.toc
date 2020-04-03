@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}model z interakcj\IeC {\k a} a model bez interakcji}{2}
+\contentsline {section}{\numberline {2}modele z r\IeC {\'o}\IeC {\.z}nymi funckcjami linkuj\IeC {\k a}cymi}{2}
+\contentsline {subsection}{\numberline {2.1}logit}{3}
+\contentsline {subsection}{\numberline {2.2}probit}{3}
+\contentsline {subsection}{\numberline {2.3}cauchit}{4}
+\contentsline {subsection}{\numberline {2.4}cloglog}{4}
