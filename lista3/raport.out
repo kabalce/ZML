@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{Wizualizacja danych}{}% 1
+\BOOKMARK [1][-]{section.2}{Pe\233ny model}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Model ze wszystkimi podanymi zmiennymi, bez interakcji}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Model ze wszystkimi podanymi zmiennymi, z interakcja}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Zredukowany model regresji Poissona}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Predykcja liczby klient\363w}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Test Walda; czy w weekend o kazdej porze liczba klient\363w jest taka sama?}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Proponowany grafik pracy}{}% 8

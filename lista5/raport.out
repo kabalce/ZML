@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Generowanie danych i estymacja parametr\363w dla jednej symulacji}{}% 1
+\BOOKMARK [1][-]{section.2}{Rozk\233ady uzyskanych estymator\363w}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{n=20, p=4, k=3, method = 'REML'}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{n=100, p=4, k=3, method = 'REML'}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{n=100, p=4, k=15, method = 'REML'}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{n=100, p=4, k=20, method = 'REML'}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{n=20, p=4, k=3, method = 'ML'}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{n=100, p=4, k=3, method = 'ML'}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{n=100, p=4, k=15, method = 'ML'}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{n=100, p=4, k=20, method = 'ML'}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.9}{Obciazenia estymator\363w i norma supremum }{section.2}% 11
+\BOOKMARK [1][-]{section.3}{Wnioski:}{}% 12
+\BOOKMARK [1][-]{section.4}{Implementacja symulacji}{}% 13
